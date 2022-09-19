@@ -7,3 +7,4 @@ C:\C#\C_sharp\WinApp20220919\WinApp20220919\obj\Debug\WinApp20220919.csproj.Gene
 C:\C#\C_sharp\WinApp20220919\WinApp20220919\obj\Debug\WinApp20220919.csproj.CoreCompileInputs.cache
 C:\C#\C_sharp\WinApp20220919\WinApp20220919\obj\Debug\WinApp20220919.exe
 C:\C#\C_sharp\WinApp20220919\WinApp20220919\obj\Debug\WinApp20220919.pdb
+C:\C#\C_sharp\WinApp20220919\WinApp20220919\obj\Debug\WinApp20220919.Form1.resources
