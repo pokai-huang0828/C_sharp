@@ -1,0 +1,9 @@
+C:\C#\C_sharp\WinApp20220919\WinApp20220919\bin\Debug\WinApp20220919.exe.config
+C:\C#\C_sharp\WinApp20220919\WinApp20220919\bin\Debug\WinApp20220919.exe
+C:\C#\C_sharp\WinApp20220919\WinApp20220919\bin\Debug\WinApp20220919.pdb
+C:\C#\C_sharp\WinApp20220919\WinApp20220919\obj\Debug\WinApp20220919.csprojAssemblyReference.cache
+C:\C#\C_sharp\WinApp20220919\WinApp20220919\obj\Debug\WinApp20220919.Properties.Resources.resources
+C:\C#\C_sharp\WinApp20220919\WinApp20220919\obj\Debug\WinApp20220919.csproj.GenerateResource.cache
+C:\C#\C_sharp\WinApp20220919\WinApp20220919\obj\Debug\WinApp20220919.csproj.CoreCompileInputs.cache
+C:\C#\C_sharp\WinApp20220919\WinApp20220919\obj\Debug\WinApp20220919.exe
+C:\C#\C_sharp\WinApp20220919\WinApp20220919\obj\Debug\WinApp20220919.pdb
