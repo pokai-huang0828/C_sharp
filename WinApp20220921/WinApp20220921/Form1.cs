@@ -63,7 +63,32 @@ namespace WinApp20220921
             float kg = float.Parse(kgV);    //輸入轉換成浮點數
 
             float BMI = kg / (m * m);       //公式計算BMI值
-            Result.Text = BMI.ToString();   //將結果輸出到label
+            Result.Text = BMI.ToString("F2");   //將結果輸出到label
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            int a = 20;
+            int b = 3;
+
+            // label1.Text = (a % b).ToString();
+            // label1.Text = (1.0 * a / b).ToString();
+            label1.Text = ((double)a / b).ToString("F2");
+        }
+        /* 運算子 運算規則
+            
+            1. 整數的四則運算結果皆為整數
+            2. 任何整數值與浮點數運算結果會自動轉為浮點數
+            3. 整數的處理，預設接自動判定為 int ，運算上也轉成 int 運算原理
+         
+         
+         */
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            short a = 32767;
+            short b = (short)(a + 2);
+            label1.Text = b.ToString(); //避免造成異位錯誤朝過的值將從負值開始
         }
     }
 }
