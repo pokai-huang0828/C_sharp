@@ -105,13 +105,22 @@ namespace WinApp20220923
         {
             int choice = int.Parse(textBox2.Text);
             string s = "";
+            label1.ForeColor = Color.Black;
             switch (choice)
             {
-                case 1: s = "豬排"; break;
-                case 2: s = "雞排"; break;
-                case 3: s = "牛排"; break;
-                case 4: s = "羊排"; break;
-                case 5:                     // 選四就是選五
+                case 1: s = "豬排";
+                    label1.ForeColor = Color.Red;
+                    break;
+                case 2: s = "雞排";
+                    label1.ForeColor = Color.Green; 
+                    break;
+                case 3: s = "牛排";
+                    label1.ForeColor = Color.Azure; 
+                    break;
+                case 4:                 // 選四就是選五
+                case 5: s = "羊排";
+                    label1.ForeColor = Color.Chocolate; 
+                    break;                                  
                 default: s = "只有1-4，不要亂選!"; break;
             }
             label1.Text = s;
