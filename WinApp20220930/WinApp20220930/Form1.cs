@@ -94,5 +94,56 @@ namespace WinApp20220930
 
             textBox1.Text = result;
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            int[] xx = { 90, 50, 80, 40, 20, 70, 30, 60, 10 };
+
+            for (int i = 0; i < xx.Length -1; i++)
+            {
+                for (int j = i; j < xx.Length; j++)
+                {
+                    if (xx[j] > xx[i])
+                    {
+                        int temp = xx[i];
+                        xx[i] = xx[j];
+                        xx[j] = temp;
+                    }    
+                }
+            }
+
+            string result = "";
+            foreach (int aa in xx)
+            {
+                result += aa + "\r\n";
+            }
+
+            
+            textBox1.Text = result;
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            Random rr = new Random();
+
+            //rr.NextDouble();  // 0 <= ~ < 1
+            //rr.Next(100);     // 0 ~ 99
+
+            string result = "";
+
+            for(int i = 1; i <= 50; i++)
+            {
+                result += rr.Next(10, 100) + "\r\n";  // rr.Next(minNum, maxNum);
+            }
+
+            textBox1.Text = result;
+        }
+
+        /*  回家作業
+        1. 三大基礎排序法   插入 / 選擇 / 泡沫(氣泡)排序法
+        2. 大樂透開獎程式
+          2-1. 重抽法
+          2-2. 真實世界中的抽獎(抽過是不會放回母體)
+        */
     }
 }
