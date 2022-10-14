@@ -41,8 +41,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Air\Eagle.cs" />
+    <Compile Include="Air\IBirdAbility.cs" />
+    <Compile Include="Air\Rooster.cs" />
     <Compile Include="Animal.cs" />
+    <Compile Include="Land\Bat.cs" />
     <Compile Include="Land\Cat.cs" />
+    <Compile Include="Ocean\Dophin.cs" />
+    <Compile Include="Ocean\Shark.cs" />
     <Compile Include="Land\Dog.cs" />
     <Compile Include="Land\Lion.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

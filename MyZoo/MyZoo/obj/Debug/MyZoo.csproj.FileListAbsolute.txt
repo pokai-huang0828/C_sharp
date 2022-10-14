@@ -4,3 +4,9 @@ C:\MyVS\MyZoo\MyZoo\obj\Debug\MyZoo.csprojAssemblyReference.cache
 C:\MyVS\MyZoo\MyZoo\obj\Debug\MyZoo.csproj.CoreCompileInputs.cache
 C:\MyVS\MyZoo\MyZoo\obj\Debug\MyZoo.dll
 C:\MyVS\MyZoo\MyZoo\obj\Debug\MyZoo.pdb
+D:\Learning\C_sharp\MyZoo\MyZoo\bin\Debug\MyZoo.dll
+D:\Learning\C_sharp\MyZoo\MyZoo\bin\Debug\MyZoo.pdb
+D:\Learning\C_sharp\MyZoo\MyZoo\obj\Debug\MyZoo.csproj.AssemblyReference.cache
+D:\Learning\C_sharp\MyZoo\MyZoo\obj\Debug\MyZoo.csproj.CoreCompileInputs.cache
+D:\Learning\C_sharp\MyZoo\MyZoo\obj\Debug\MyZoo.dll
+D:\Learning\C_sharp\MyZoo\MyZoo\obj\Debug\MyZoo.pdb
