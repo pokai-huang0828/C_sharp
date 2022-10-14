@@ -11,17 +11,17 @@ namespace MyZoo.Land
         public Dog(string name, string color) : base("狗狗", name, color)
         { }
 
-        public string Eat()
+        public override string Eat()
         {
             return "肉肉、骨頭、寶路";
         }
-        public string Sound()
+        public override string Sound()
         {
             return "汪！汪！汪！";
         }
-        public string Move()
+        public override string Move()
         {
             return "四隻腳跑跑跳跳！";
-        }
+        }        
     }
 }

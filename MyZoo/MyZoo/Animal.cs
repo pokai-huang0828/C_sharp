@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MyZoo
 {
-    public class Animal
+    public abstract class Animal
     {
         private string name;
         private string color;
@@ -23,18 +23,9 @@ namespace MyZoo
             this.color = color;
         }
 
-        public string Eat()
-        {
-            return "食物";
-        }
-        public string Sound()
-        {
-            return "反正有聲音！";
-        }
-        public string Move()
-        {
-            return "反正會動！";
-        }
+        public abstract string Eat();
+        public abstract string Sound();
+        public abstract string Move();
 
         public override string ToString()
         {
