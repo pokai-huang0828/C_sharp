@@ -1,0 +1,9 @@
+D:\Learning\C_sharp\WinApp20221003\bin\Debug\WinApp20221003.exe.config
+D:\Learning\C_sharp\WinApp20221003\bin\Debug\WinApp20221003.exe
+D:\Learning\C_sharp\WinApp20221003\bin\Debug\WinApp20221003.pdb
+D:\Learning\C_sharp\WinApp20221003\obj\Debug\WinApp20221003.Form1.resources
+D:\Learning\C_sharp\WinApp20221003\obj\Debug\WinApp20221003.Properties.Resources.resources
+D:\Learning\C_sharp\WinApp20221003\obj\Debug\WinApp20221003.csproj.GenerateResource.cache
+D:\Learning\C_sharp\WinApp20221003\obj\Debug\WinApp20221003.csproj.CoreCompileInputs.cache
+D:\Learning\C_sharp\WinApp20221003\obj\Debug\WinApp20221003.exe
+D:\Learning\C_sharp\WinApp20221003\obj\Debug\WinApp20221003.pdb
