@@ -8,6 +8,6 @@ namespace MyZoo.Air
 {
     public interface IBirdAbility
     {
-        string Fly();
+        string Fly();        
     }
 }

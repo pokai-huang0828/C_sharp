@@ -34,7 +34,7 @@ namespace MyZoo.Air
         public override string ToString()
         {
             string result = base.ToString();
-            result += string.Format("{0}的飛行：{1}\r\n", this.Name, this.Fly());
+            result+= string.Format("{0}的飛行：{1}\r\n", this.Name, this.Fly());
             return result;
         }
     }

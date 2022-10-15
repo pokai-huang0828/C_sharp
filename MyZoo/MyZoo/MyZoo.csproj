@@ -47,11 +47,11 @@
     <Compile Include="Animal.cs" />
     <Compile Include="Land\Bat.cs" />
     <Compile Include="Land\Cat.cs" />
-    <Compile Include="Ocean\Dophin.cs" />
-    <Compile Include="Ocean\Shark.cs" />
     <Compile Include="Land\Dog.cs" />
     <Compile Include="Land\Lion.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Sea\Dolphin.cs" />
+    <Compile Include="Sea\Shark.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

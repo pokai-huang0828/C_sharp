@@ -4,7 +4,7 @@ using System.ComponentModel;
 using System.Text;
 using System.Windows.Forms;
 using MyZoo.Land;
-using MyZoo.Ocean;
+using MyZoo.Sea;
 using MyZoo.Air;
 
 namespace WA20221014
@@ -23,7 +23,7 @@ namespace WA20221014
             //MyZoo.Animal aa = new MyZoo.Animal("動物", "動動", "色色");
             //result += aa.ToString() + "\r\n";
 
-            MyZoo.Land.Dog d1 = new MyZoo.Land.Dog("小黃", "黃");
+            MyZoo.Land.Dog d1 = new MyZoo.Land.Dog("小黃","黃");
             result += d1.ToString() + "\r\n";
 
             Dog d2 = new Dog("小哈", "灰");
@@ -38,7 +38,7 @@ namespace WA20221014
             Shark s1 = new Shark("小鯊", "灰");
             result += s1.ToString() + "\r\n";
 
-            Dophin do1 = new Dophin("小豚", "灰");
+            Dolphin do1 = new Dolphin("小豚", "灰");
             result += do1.ToString() + "\r\n";
 
             Eagle e1 = new Eagle("小鷹", "褐白");
@@ -53,8 +53,50 @@ namespace WA20221014
             Bat b1 = new Bat("小蝠");
             result += b1.ToString() + "\r\n";
 
+
             textBox1.Text = result;
 
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            string result = "";
+
+            MyZoo.Animal aa = null;            
+
+            aa = new MyZoo.Land.Dog("小黃", "黃");
+            result += aa.ToString() + "\r\n";
+
+            aa = new Dog("小哈", "灰");
+            result += aa.ToString() + "\r\n";
+
+            aa = new Cat("小咪", "白");
+            result += aa + "\r\n";
+
+            aa = new Lion("辛巴");
+            result += aa + "\r\n";
+
+            aa = new Shark("小鯊", "灰");
+            result += aa + "\r\n";
+
+            aa = new Dolphin("小豚", "灰");
+            result += aa + "\r\n";
+
+            aa = new Eagle("小鷹", "褐白");
+            Eagle ee = (Eagle)aa;
+            result += aa + ee.Fly() + "\r\n" + "\r\n";
+
+            aa = new Rooster("小紅", "橘紅");
+            result += aa + "\r\n";
+
+            aa = new Rooster("小烏", "黑");
+            result += aa + "\r\n";
+
+            aa = new Bat("小蝠");
+            result += aa + "\r\n";
+
+
+            textBox1.Text = result;
         }
     }
 }

@@ -11,17 +11,3 @@ C:\MyVS\WA20221014\WA20221014\obj\Debug\WA20221014.csproj.CoreCompileInputs.cach
 C:\MyVS\WA20221014\WA20221014\obj\Debug\WA20221014.csproj.CopyComplete
 C:\MyVS\WA20221014\WA20221014\obj\Debug\WA20221014.exe
 C:\MyVS\WA20221014\WA20221014\obj\Debug\WA20221014.pdb
-D:\Learning\C_sharp\WA20221014\WA20221014\bin\Debug\WA20221014.exe.config
-D:\Learning\C_sharp\WA20221014\WA20221014\bin\Debug\WA20221014.exe
-D:\Learning\C_sharp\WA20221014\WA20221014\bin\Debug\WA20221014.pdb
-D:\Learning\C_sharp\WA20221014\WA20221014\bin\Debug\MyZoo.dll
-D:\Learning\C_sharp\WA20221014\WA20221014\bin\Debug\MyZoo.pdb
-D:\Learning\C_sharp\WA20221014\WA20221014\obj\Debug\WA20221014.csproj.AssemblyReference.cache
-D:\Learning\C_sharp\WA20221014\WA20221014\obj\Debug\WA20221014.csproj.SuggestedBindingRedirects.cache
-D:\Learning\C_sharp\WA20221014\WA20221014\obj\Debug\WA20221014.Form1.resources
-D:\Learning\C_sharp\WA20221014\WA20221014\obj\Debug\WA20221014.Properties.Resources.resources
-D:\Learning\C_sharp\WA20221014\WA20221014\obj\Debug\WA20221014.csproj.GenerateResource.cache
-D:\Learning\C_sharp\WA20221014\WA20221014\obj\Debug\WA20221014.csproj.CoreCompileInputs.cache
-D:\Learning\C_sharp\WA20221014\WA20221014\obj\Debug\WA20221014.csproj.CopyComplete
-D:\Learning\C_sharp\WA20221014\WA20221014\obj\Debug\WA20221014.exe
-D:\Learning\C_sharp\WA20221014\WA20221014\obj\Debug\WA20221014.pdb
